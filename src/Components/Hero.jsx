@@ -38,7 +38,7 @@ export function Hero() {
           </div>
 
         </div>
-        <div className="relative h-full lg:mt-40 w-full flex justify-center ">
+        <div className="relative h-full lg:mt-10 md:mt-40 sm:mt-20 w-full flex justify-center ">
           <Image src={Gradient}  className='min-h-[500px] w-full object-cover lg:h-auto'/>
           <div className="absolute bottom-5 w-full flex flex-col items-center">
 
